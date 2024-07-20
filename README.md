@@ -25,20 +25,6 @@ This project aims to detect fraudulent transactions using Support Vector Machine
 3. **Behavioral Modeling**: Analyze transaction patterns and behaviors to detect anomalies.
 4. **Train and Evaluate Models**: Train SVM and Random Forest models and evaluate their performance using metrics such as accuracy, precision, recall, and F1-score.
 
-## Results and Metrics
-
-- **Accuracy**: 95%
-- **Precision**: 90%
-- **Recall**: 92%
-- **F1-Score**: 91%
-- **Number of Detected Anomalies**: 200
-
-## Additional Tools
-
-- **PyCharm Professional**: For full support of local notebooks and advanced features.
-- **DataSpell**: A dedicated IDE for data science, supporting local and remote notebooks.
-- **Datalore**: An online Jupyter notebook environment in the browser.
-
 ## Example Usage
 
 This project provides a structured approach to detecting fraud in transaction data. By following the steps outlined, you can preprocess data, detect anomalies, perform behavioral modeling, train models, and evaluate their performance effectively.
