@@ -16,6 +16,7 @@ This project aims to detect fraudulent transactions using Support Vector Machine
 ## Requirements
 
 - **Python**: 3.7 or higher
+- **Dataset**: https://datalink.youdata.ai/235cy5ae
 
 ## Usage
 
